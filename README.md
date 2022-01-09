@@ -1,0 +1,2 @@
+# typonar
+Typosquatting radar
